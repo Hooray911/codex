@@ -1,0 +1,16 @@
+﻿# Data files (too large for Git)
+*.csv
+*.pkl
+
+# Generated scripts
+_*.py
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Project files to track
+!report.html
+!charts/
+!*.py
+!*.md
